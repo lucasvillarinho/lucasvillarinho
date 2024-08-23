@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi There 👋
 
 
 ####  I'm Lucas, a passionate Software Engineer 
@@ -8,7 +8,4 @@
 
 
 ⚡ Let's connect 
-
-<a href="https://www.linkedin.com/in/lucas-villarinho" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white">
-</a>
+- [Linkedin](https://www.linkedin.com/in/lucas-villarinho)
