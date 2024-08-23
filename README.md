@@ -1,15 +1,15 @@
 <h2>It's me, villa 🤘🏻</h2>
 
-
 > My name is Lucas Villarinho, but most people call me by my nickname, Villa. 
-<p><em>Staff Software Enginner</br>
+<p><em>Programmer </br>
 </em></p>
 
 
 I’m a software engineer in love with Golang. For almost eight years, I have been working with big applications from a variety of companies, helping them build scalable, performant, and resilient apps.
 
-- **Skill**: Backend Developer
-- **I use daily**: Go 
+**Skills**:
+ - Backend Developer
+ - Go 
 
 
 ⚡ Let's connect 
