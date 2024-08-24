@@ -12,7 +12,7 @@
 
 ---
 
-- 🔭 I’m currently working as **Sr. Software Engineer **
+- 🔭 I’m currently working as **Staff Software Engineer**
 -  💬 Ask me about **Backend Development**
 
  **Ping**
