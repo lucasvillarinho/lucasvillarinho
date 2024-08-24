@@ -5,12 +5,17 @@
 </em></p>
 
 
- ⚒️ **Skills**:
+ **Skills**:
  - Backend Developer
  - Go 
 
 
- 💬 **Ping**
+---
+
+- 🔭 I’m currently working as **Sr. Software Engineer **
+-  💬 Ask me about **Backend Development**
+
+ **Ping**
  
 [![Linkedin: vills](https://img.shields.io/badge/-Ghazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-villarinho)](https://www.linkedin.com/in/lucas-villarinho)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@lucasvillarinho1@gmail.com)](mailto:lucasvillarinho1@gmail.com)
