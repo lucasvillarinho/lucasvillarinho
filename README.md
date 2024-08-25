@@ -1,21 +1,15 @@
-<h2>Hello there 🤘🏻</h2>
+<h2>Hello  🤘🏻</h2>
 
-> My name is Lucas Villarinho, but most people call me by my nickname, Villa. 
-<p><em>Programmer </br>
-</em></p>
+ My name is Lucas Villarinho, but most people call me by my nickname, Villa.
 
+ **About**:
 
- **Skills**:
- - Backend Developer
- - Go 
+- 🌱 I’m **Backend Developer**
+- 🐹 **Go** is my main language
+- 🔭 I’m currently working as **Staff Software Engineer** at Globo
+- 💬 Ask me about **Backend Development**
 
+ **How to reach me**
 
----
-
-- 🔭 I’m currently working as **Staff Software Engineer**
--  💬 Ask me about **Backend Development**
-
- **Ping**
- 
-[![Linkedin: vilas](https://img.shields.io/badge/-villa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-villarinho)](https://www.linkedin.com/in/lucas-villarinho)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@lucasvillarinho1@gmail.com)](mailto:lucasvillarinho1@gmail.com)
+- [LinkedIn](www.linkedin.com/in/lucas-villarinho)
+- [Twitter](https://x.com/villarinholuc)
