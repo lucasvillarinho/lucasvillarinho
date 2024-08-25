@@ -11,5 +11,5 @@
 
  **How to reach me**
 
-- [LinkedIn](www.linkedin.com/in/lucas-villarinho)
+- [LinkedIn](https://www.linkedin.com/in/lucas-villarinho/)
 - [Twitter](https://x.com/villarinholuc)
