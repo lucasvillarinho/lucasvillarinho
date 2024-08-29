@@ -1,10 +1,11 @@
 <h2>Hello  🤘🏻</h2>
 
- My name is Lucas Villarinho, but most people call me by my nickname, Villa.
+My name is Lucas Villarinho, but most people call me Villa.
 
- **About**:
 
-- 🌱 I’m **Backend Developer**
+**About me:**
+
+- 🌱 I’m a **Backend Developer**
 - 🐹 **Go** is my main language
 - 🔭 I’m currently working as **Staff Software Engineer** at Globo
 - 💬 Ask me about **Backend Development**
