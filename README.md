@@ -11,6 +11,5 @@ Always curious about infrastructure, protocols, and how to ship high-quality pro
 
 **📫 How to reach me**
 
-You can email me at [lucasvillarinho1@gmail.com](mailto:lucasvillarinho1@gmail.com)  
-or send me a message on [LinkedIn](https://www.linkedin.com/in/lucas-villarinho/)
+You can email me at [lucasvillarinho1@gmail.com](mailto:lucasvillarinho1@gmail.com)  or send me a message on [LinkedIn](https://www.linkedin.com/in/lucas-villarinho/)
 
