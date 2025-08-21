@@ -14,7 +14,7 @@ I'm a Staff Software Engineer at Globo, passionate about building scalable backe
 
 - He/Him
 
-**Education**
+**Education:**
 
 - Bachelor's degree in Computer Science from Universidade Federal Rural do Rio de Janeiro (UFRRJ), Brazil — completed between 2015 and 2020.
 
