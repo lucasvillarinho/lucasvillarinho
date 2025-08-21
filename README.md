@@ -9,8 +9,6 @@
 My name is Lucas Villarinho, but most people call me Villa. 
 I'm a Staff Software Engineer at Globo, passionate about building scalable backend systems.
 
-I'm focused on developer experience, resilient architectures, and event-driven design.
-Always curious about infrastructure, protocols, and how to ship high-quality products efficiently.
 
 **Pronouns:**
 
