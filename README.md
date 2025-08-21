@@ -12,11 +12,15 @@ I'm a Staff Software Engineer at Globo, passionate about building scalable backe
 I'm focused on developer experience, resilient architectures, and event-driven design.
 Always curious about infrastructure, protocols, and how to ship high-quality products efficiently.
 
-🎓 Education
+**Pronouns:**
 
-Bachelor's degree in Computer Science from Universidade Federal Rural do Rio de Janeiro (UFRRJ), Brazil — completed between 2015 and 2020.
+- He/Him
 
-✉️ How to reach me
+**Education**
+
+- Bachelor's degree in Computer Science from Universidade Federal Rural do Rio de Janeiro (UFRRJ), Brazil — completed between 2015 and 2020.
+
+How to reach me
 
 You can email me at [lucasvillarinho1@gmail.com](mailto:lucasvillarinho1@gmail.com)  or send me a message on [LinkedIn](https://www.linkedin.com/in/lucas-villarinho/)
 
